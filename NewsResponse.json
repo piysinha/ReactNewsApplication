@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 456,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Adrienne So",
+            "title": "Garmin Vivoactive 6 Review: Reliable, Real Intelligence",
+            "description": "New subscription service notwithstanding, Garmin’s latest entry-level tracker is still reliable and attractive and works great.",
+            "url": "https://www.wired.com/review/garmin-vivoactive-6/",
+            "urlToImage": "https://media.wired.com/photos/6802d3bd68bf21be6e9c8d99/191:100/w_1280,c_limit/Garmin-Vivoactive_042025_Lede.jpg",
+            "publishedAt": "2025-04-19T13:33:00Z",
+            "content": "Garmin, the maker of our favorite fitness trackers, has several series of entry-level hybrid trackers. Sorting through them can be confusing. The Venu series is the most expensive, the premium tracke… [+2295 chars]"
+        }
+    ]
+}
